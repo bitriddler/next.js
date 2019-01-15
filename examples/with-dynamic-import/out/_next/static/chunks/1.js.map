@@ -1,0 +1,1 @@
+{"version":3,"file":"static/chunks/1.js","sources":["webpack:///./components/hello1.js"],"sourcesContent":["export default () => <p>Hello World 1 (imported dynamiclly) </p>\n"],"mappings":";;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;;;;A","sourceRoot":""}
